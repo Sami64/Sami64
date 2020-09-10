@@ -40,6 +40,8 @@
 <br />
 <br />
 
+---
+
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
