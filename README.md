@@ -55,8 +55,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-<img align="left" alt="Sami64's Github Stats" src="https://github-readme-stats-six-beige.vercel.app
-//api?username=Sami64&show_icons=true&hide_border=true" />
+<img align="left" alt="Sami64's Github Stats" src="https://github-readme-stats-six-beige.vercel.app//api?username=Sami64&show_icons=true&hide_border=true" />
 
 </details>
 
