@@ -1,6 +1,6 @@
 ### Hi there, I'm Sami - aka [sami_khae][website] 👋
 
-[![Website](https://img.shields.io/website?label=sami-portfolio-beta.netlify.app&style=for-the-badge&url=https%3A%2F%2Fsami-portfolio-beta.netlify.app)](https://samuelpaintsil-beta.netlify.app/)
+[![Website](https://img.shields.io/website?label=samuelpaintsil-beta.netlify.app&style=for-the-badge&url=https%3A%2F%2Fsamuelpaintsil-beta.netlify.app)](https://samuelpaintsil-beta.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sami_khae?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsami_khae&screen_name=sami_khae)
 
 ## I'm a Gamer & Developer!
@@ -46,11 +46,6 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com//colbyfayock/50-projects-for-react-and-the-static-web/pull/6) in [colbyfayock/50-projects-for-react-and-the-static-web](https://github.com//colbyfayock/50-projects-for-react-and-the-static-web)
-2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-3. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-4. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-5. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 </details>
