@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on a [Whatsapp Clone][website]!
 - 🌱 I’m currently learning everything 🤣, But mostly Game Dev stuff
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Build projects for my portfolio
+- 🥅 2021 Goals: Rocket to professional level & start youtube channel
 - ⚡ Fun fact: I love to play :basketball: and play guitar
 
 ### Connect with me:
