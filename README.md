@@ -61,4 +61,4 @@
 [twitter]: https://twitter.com/sami_khae
 [instagram]: https://instagram.com/sami_khae
 [linkedin]: https://linkedin.com/in/samuel-kow-p-200724124
-[![Spotify](https://sami64.vercel.app/api/spotify)](https://open.spotify.com/user/smashbros54)
+![Spotify](https://sami64.vercel.app/api/spotify)](https://open.spotify.com/user/smashbros54)
