@@ -41,6 +41,11 @@
 <br />
 
 ---
+<p align="center">
+    <a href="https://github.com/Sami64/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sami64's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sami64&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 <details>
   <summary>:zap: Github Stats</summary>
@@ -48,8 +53,13 @@
 <img align="left" alt="Sami64's Github Stats" src="https://github-readme-stats.sami64.vercel.app/api?username=Sami64&show_icons=true&hide_border=true&count_private=true" />
   
   <a href="https://github.com/Sami64/github-readme-stats"><img alt="Samuel Kow Paintsil's Top Languages" src="https://github-readme-stats.sami64.vercel.app/api/top-langs/?username=Sami64&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+  <br/><br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <br/>
+<br/>
+
+<a href="https://github.com/Sami64/github-readme-activity-graph"><img alt="Samuel Kow Paintsil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sami64&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 </details>
 
