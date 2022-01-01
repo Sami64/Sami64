@@ -69,3 +69,10 @@
 [linkedin]: https://linkedin.com/in/samuel-kow-p-200724124
 ### Spotify Playing
 [![Spotify](https://spotify-github-profile-sami64.vercel.app/api/spotify)](https://open.spotify.com/user/smashbros54)
+
+
+## ❤ Views and Followers
+<a href="https://github.com/Sami64/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Sami64">
+</a>
+<a href="https://github.com/Sami64?tab=followers"><img src="https://img.shields.io/github/followers/Sami64?label=Followers&style=social" alt="GitHub Badge"></a>
