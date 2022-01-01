@@ -46,6 +46,10 @@
   <summary>:zap: Github Stats</summary>
 
 <img align="left" alt="Sami64's Github Stats" src="https://github-readme-stats.sami64.vercel.app/api?username=Sami64&show_icons=true&hide_border=true&count_private=true" />
+  
+  <a href="https://github.com/Sami64/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sami64&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 </details>
 
