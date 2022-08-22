@@ -5,7 +5,7 @@
 
 ## I'm a Gamer & Developer!
 
-- 🔭 I’m currently working on a [Whatsapp Clone][website]!
+
 - 🌱 I’m currently learning everything 🤣, But mostly Game Dev stuff
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Let's start a game studio?
