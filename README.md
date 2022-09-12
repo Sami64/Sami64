@@ -6,7 +6,7 @@
 ## I'm a Gamer & Developer!
 
 
-- 🌱 I’m currently learning everything 🤣, But mostly Game Dev stuff
+- 🌱 I’m currently learning Game Dev with Unreal Engine
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Let's start a game studio?
 - ⚡ Fun fact: I love to play :basketball: and play guitar
