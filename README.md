@@ -6,9 +6,9 @@
 ## I'm a Gamer & Developer!
 
 
-- 🌱 I’m currently learning Game Dev
+- 🌱 I’m currently learning code patterns and principles
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Let's start a game studio?
+- 🥅 2023 Goals: Get into AI in the gaming sector
 - ⚡ Fun fact: I love to play :basketball: and play guitar
 
 ### Connect with me:
