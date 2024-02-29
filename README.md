@@ -69,7 +69,7 @@
 [instagram]: https://instagram.com/sami_khae
 [linkedin]: https://linkedin.com/in/samuel-kow-p-200724124
 ### Spotify Playing
-[![Spotify](https://spotify-github-profile-sami64.vercel.app/api/spotify)](https://open.spotify.com/user/smashbros54)
+[![Spotify](https://spotify-github-profile-sami64.vercel.app/api/spotify)](https://open.spotify.com/user/qv8j2qb1t7k9xrlq2f5mvg7sa)
 
 
 ## ❤ Views and Followers
