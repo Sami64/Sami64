@@ -6,7 +6,7 @@
 ## I'm a Gamer & Developer!
 
 
-- 🌱 I’m currently learning code patterns and principles
+- 🌱 I’m currently learning stuff
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2024 Goals: 1st Game Launch
 - ⚡ Fun fact: I love to play :basketball: and play guitar
