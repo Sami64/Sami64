@@ -69,7 +69,7 @@
 [instagram]: https://instagram.com/sami_khae
 [linkedin]: https://linkedin.com/in/samuel-kow-p-200724124
 ### Spotify Playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qv8j2qb1t7k9xrlq2f5mvg7sa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=qv8j2qb1t7k9xrlq2f5mvg7sa&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=qv8j2qb1t7k9xrlq2f5mvg7sa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=qv8j2qb1t7k9xrlq2f5mvg7sa&redirect=true)
 
 
 ## ❤ Views and Followers
