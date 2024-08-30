@@ -77,3 +77,5 @@
     <img src="https://komarev.com/ghpvc/?username=Sami64">
 </a>
 <a href="https://github.com/Sami64?tab=followers"><img src="https://img.shields.io/github/followers/Sami64?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<a href="https://www.buymeacoffee.com/smashbros54" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
