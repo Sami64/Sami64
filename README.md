@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning stuff
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2024 Goals: 1st Game Launch
 - ⚡ Fun fact: I love to play :basketball: and play guitar
 
 ### Connect with me:
