@@ -41,9 +41,7 @@
 
 ---
 <p align="center">
-    <a href="https://github.com/Sami64/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sami64's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sami64&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    <img src="https://github-readme-streak-stats-rho-cyan.vercel.app/?user=Sami64&theme=gotham" alt="Sami64"/>
 </p>
 
 <details>
@@ -62,7 +60,7 @@
 
 </details>
 
-[website]: https://sami-portfolio-beta.netlify.app/
+[website]: https://samuelkowpaintsil.vercel.app/
 [twitter]: https://twitter.com/sami_khae
 [instagram]: https://instagram.com/sami_khae
 [linkedin]: https://linkedin.com/in/samuel-kow-p-200724124
